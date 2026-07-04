@@ -1,2 +1,2 @@
-# BOOKING-SYSTEM
+# BOOKING_SYSTEM
 Travelling and booking
